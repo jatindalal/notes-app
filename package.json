@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "server": "json-server --watch src/assets/db.json --port 5000"
   },
   "dependencies": {
     "bootstrap": "^5.2.3",

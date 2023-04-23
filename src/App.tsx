@@ -2,6 +2,7 @@ import {
   createBrowserRouter,
   matchPath,
   RouterProvider,
+  useNavigate,
   useParams,
 } from "react-router-dom";
 
@@ -11,8 +12,9 @@ import NotePage from "./pages/NotePage";
 
 function NotePages() {
   let id = useParams().id;
+  let navigate = useNavigate();
 
-  return <NotePage id={id ? id : ""} />;
+  return <NotePage id={id ? id : ""} navigate={navigate}/>;
 }
 
 const router = createBrowserRouter([
