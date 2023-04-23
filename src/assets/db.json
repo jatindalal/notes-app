@@ -3,23 +3,28 @@
     {
       "id": 1,
       "body": "Todays Agenda\n\n- Walk Dog\n- Feed fish\n- Play basketball\n- Eat a salad",
-      "updated": "2021-07-14T13:49:02.078653Z",
+      "updated": "2023-04-23T12:20:52.694Z",
       "created": "2021-07-13T21:54:16.235392Z",
-      "update": "2023-04-23T11:52:25.564Z"
+      "update": "2023-04-23T12:15:59.519Z"
     },
     {
       "id": 2,
-      "body": "Bob from bar down the \n\n- Take out trash\n- Eat food",
-      "updated": "2021-07-13T20:43:18.550058Z",
+      "body": "Bob from bar down the \n\n- Take out trash\n- Eat food\n- live your live",
+      "updated": "2023-04-23T12:38:47.706Z",
       "created": "2021-07-13T00:17:13.289897Z",
-      "update": "2023-04-23T11:52:28.738Z"
+      "update": "2023-04-23T12:17:32.839Z"
     },
     {
-      "id": 3,
-      "body": "Wash car\n\n- do something about washing the car",
-      "updated": "2021-07-13T19:46:12.187306Z",
-      "created": "2021-07-13T00:16:22.399841Z",
-      "update": "2023-04-23T11:48:41.668Z"
+      "body": "something\n\n- do something good not just for yourself but also for others",
+      "updated": "2023-04-23T12:39:21.227Z",
+      "created": "2023-04-23T12:36:03.765Z",
+      "id": 5
+    },
+    {
+      "body": "something",
+      "updated": "2023-04-23T12:42:45.760Z",
+      "created": "2023-04-23T12:42:45.760Z",
+      "id": 6
     }
   ]
 }
