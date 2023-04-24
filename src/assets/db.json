@@ -2,29 +2,23 @@
   "notes": [
     {
       "id": 1,
-      "body": "Todays Agenda\n\n- Walk Dog\n- Feed fish\n- Play basketball\n- Eat a salad",
-      "updated": "2023-04-23T12:20:52.694Z",
+      "body": "Exams\n\n- Study\n- Study some more\n- Study a little more",
+      "updated": "2023-04-24T04:37:28.927Z",
       "created": "2021-07-13T21:54:16.235392Z",
       "update": "2023-04-23T12:15:59.519Z"
     },
     {
       "id": 2,
-      "body": "Bob from bar down the \n\n- Take out trash\n- Eat food\n- live your live",
-      "updated": "2023-04-23T12:38:47.706Z",
+      "body": "Make a web app\n\n- Use react\n- Learn about react",
+      "updated": "2023-04-24T04:37:51.855Z",
       "created": "2021-07-13T00:17:13.289897Z",
       "update": "2023-04-23T12:17:32.839Z"
     },
     {
-      "body": "something\n\n- do something good not just for yourself but also for others",
-      "updated": "2023-04-23T12:39:21.227Z",
+      "body": "Do good\n\n- do something good not just for yourself but also for others",
+      "updated": "2023-04-24T04:38:03.578Z",
       "created": "2023-04-23T12:36:03.765Z",
       "id": 5
-    },
-    {
-      "body": "something",
-      "updated": "2023-04-23T12:42:45.760Z",
-      "created": "2023-04-23T12:42:45.760Z",
-      "id": 6
     }
   ]
 }
